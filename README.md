@@ -22,7 +22,7 @@
   
 - 💭👯 I’m looking to collaborate on OpenSource Projects
 
-- 📝 My Portfolio [](https://alfinakash.vercel.app/)
+- 📝 My Portfolio [Portfolio](https://alfinakash.vercel.app/)
 
 - 💡 Contributing to Open Source Projects is always been a goal to me.
 
@@ -87,13 +87,13 @@
 <!------------------------------------------------------------------------------------GITHUB STATS--------------------------------------------------------------------------------------------------->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+<!--
 [![AlfinAkash's GitHub | Stats](https://stats.quine.sh/AlfinAkash/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AlfinAkash)
 [![AlfinAkash's GitHub | Dependencies](https://stats.quine.sh/AlfinAkash/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AlfinAkash)
 [![AlfinAkash's GitHub | Topics Over Time](https://stats.quine.sh/AlfinAkash/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AlfinAkash)
 [![AlfinAkash's GitHub | Languages Over Time](https://stats.quine.sh/AlfinAkash/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AlfinAkash)
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">   -->
 
 <!------------------------------------------------------------------------------------ ARTICLES --------------------------------------------------------------------------------------------------->
 
@@ -104,7 +104,6 @@
 
 <br><br>
  
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!------------------------------------------------------------------------------------ ARCHIEVEMENTS --------------------------------------------------------------------------------------------------->
 
