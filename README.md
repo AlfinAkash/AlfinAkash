@@ -88,7 +88,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-[![AlfinAkash's GitHub | Stats](https://stats.quine.sh/iamrudhresh/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AlfinAkash)
+[![AlfinAkash's GitHub | Stats](https://stats.quine.sh/AlfinAkash/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AlfinAkash)
 [![AlfinAkash's GitHub | Dependencies](https://stats.quine.sh/AlfinAkash/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AlfinAkash)
 [![AlfinAkash's GitHub | Topics Over Time](https://stats.quine.sh/AlfinAkash/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AlfinAkash)
 [![AlfinAkash's GitHub | Languages Over Time](https://stats.quine.sh/AlfinAkash/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AlfinAkash)
