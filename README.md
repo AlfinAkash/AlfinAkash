@@ -22,7 +22,7 @@
   
 - 💭👯 I’m looking to collaborate on OpenSource Projects
 
-- 📝 My Pportfolio [Medium](https://alfinakash.vercel.app/)
+- 📝 My Portfolio [](https://alfinakash.vercel.app/)
 
 - 💡 Contributing to Open Source Projects is always been a goal to me.
 
@@ -109,12 +109,12 @@
 <!------------------------------------------------------------------------------------ ARCHIEVEMENTS --------------------------------------------------------------------------------------------------->
 
 <!------------------------------------------------------------------------------------ SNAKE --------------------------------------------------------------------------------------------------->
-
+<!--------------------------------------------------
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
 
 <!------------------------------------------------------------------------------------ Github Graph --------------------------------------------------------------------------------------------------->
 
