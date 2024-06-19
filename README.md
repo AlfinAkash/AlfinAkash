@@ -22,7 +22,7 @@
   
 - 💭👯 I’m looking to collaborate on OpenSource Projects
 
-- 📝 My Portfolio [Portfolio](https://alfinakash.vercel.app/)
+- 📝 My Projects [Project](https://alfinakash-project.vercel.app/)
 
 - 💡 Contributing to Open Source Projects is always been a goal to me.
 
