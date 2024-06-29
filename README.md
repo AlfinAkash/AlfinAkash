@@ -87,11 +87,27 @@
 <!------------------------------------------------------------------------------------GITHUB STATS--------------------------------------------------------------------------------------------------->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<!--
-[![AlfinAkash's GitHub | Stats](https://stats.quine.sh/AlfinAkash/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AlfinAkash)
-[![AlfinAkash's GitHub | Dependencies](https://stats.quine.sh/AlfinAkash/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AlfinAkash)
-[![AlfinAkash's GitHub | Topics Over Time](https://stats.quine.sh/AlfinAkash/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AlfinAkash)
-[![AlfinAkash's GitHub | Languages Over Time](https://stats.quine.sh/AlfinAkash/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AlfinAkash)
+
+
+
+# LeetCode Stats Card
+
+[![CodeFactor](https://www.codefactor.io/repository/github/AlfinAkash/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/AlfinAkash/leetcode-stats-card)
+
+Show your dynamically generated LeetCode stats on your GitHub profile or your website!
+
+LeetCode and LeetCode CN are both supported.
+
+[Playground: Try It Now](https://leetcard.AlfinAkash.cool/)
+
+[![LeetCode Stats](https://leetcard.AlfinAkash.cool/JacobLinCool?theme=unicorn&extension=activity)](https://leetcard.AlfinAkash/AlfinAkash?theme=unicorn&extension=activity)
+
+
+
+
+
+
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">   -->
 
