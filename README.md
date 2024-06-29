@@ -90,17 +90,6 @@
 
 
 
-# LeetCode Stats Card
-
-[![CodeFactor](https://www.codefactor.io/repository/github/AlfinAkash/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/AlfinAkash/leetcode-stats-card)
-
-Show your dynamically generated LeetCode stats on your GitHub profile or your website!
-
-LeetCode and LeetCode CN are both supported.
-
-[Playground: Try It Now](https://leetcard.AlfinAkash.cool/)
-
-[![LeetCode Stats](https://leetcard.AlfinAkash.cool/JacobLinCool?theme=unicorn&extension=activity)](https://leetcard.AlfinAkash/AlfinAkash?theme=unicorn&extension=activity)
 
 
 
