@@ -106,3 +106,18 @@
 ![AlfinAkash's Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlfinAkash&custom_title=%20AlfinAkash's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## Deployment
+
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+![Victor's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AlfinAkash&show_icons=true&theme=tokyonight)     
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlfinAkash&theme=tokyonight)](https://git.io/streak-stats)&nbsp;
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfinAkash&theme=tokyonight&hide=html&layout=compact)
+   
+
+
