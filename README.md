@@ -32,7 +32,7 @@
 
 - 📫 How to reach me **a.alfinakash1@gmail.com**
   
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Z_UjmHhksf8caE0sSNBDyE5Z9HtE1F8y/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FYOKQ6QruHK5Rv0OO9ZqzMvqRo5EXZap/view?usp=drivesdk)
 
 
 
