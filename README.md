@@ -16,19 +16,20 @@
 
 
 
-- 🥋 I am a highly passionate full-stack developer, always eager to learn new skills and generate innovative ideas.
+-  I am a highly passionate full-stack developer, always eager to learn new skills and generate innovative ideas.
 
-- 👨‍💻  I have a strong enthusiasm for exploring new technologies and expanding my knowledge in various areas.
+-  I have a strong enthusiasm for exploring new technologies and expanding my knowledge in various areas.
 
-- 🔭 I graduated in 2024 with a **B.E. in Computer Science and Engineering from [GCE-Tirunelveli](https://www.gcetly.ac.in/)**
+- I graduated in 2024 with a **B.E. in Computer Science and Engineering from [GCE-Tirunelveli](https://www.gcetly.ac.in/)**
 
-- 🌱 I am currently focused on mastering the **MERN stack**.
+- I am currently focused on mastering the **MERN stack**.
   
-- 💭👯 I’m looking to collaborate on OpenSource Projects
+ - I’m looking to collaborate on OpenSource Projects
 
-- 📝 My Projects [Project](https://alfinakash-project.vercel.app/)
 
 - 💡 Contributing to open-source initiatives has always been a key objective of mine.
+  
+-  My recent projects [Project](https://alfinakash-project.vercel.app/)
 
 - 📫 You can reach me at **a.alfinakash1@gmail.com**
   
