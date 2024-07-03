@@ -16,7 +16,7 @@
 
 
 
-- 🥋 I'm a very Passionate For - 🥋 I am a highly passionate full-stack developer, always eager to learn new skills and generate innovative ideas.
+- 🥋 I am a highly passionate full-stack developer, always eager to learn new skills and generate innovative ideas.
 
 - 👨‍💻  I have a strong enthusiasm for exploring new technologies and expanding my knowledge in various areas.
 
@@ -32,7 +32,7 @@
 
 - 📫 You can reach me at **a.alfinakash1@gmail.com**
   
-- 📄 For more information about my experiences, please refer to my resume [Resume](https://drive.google.com/file/d/1FYOKQ6QruHK5Rv0OO9ZqzMvqRo5EXZap/view?usp=drivesdk)
+- 📄 For more information about my experiences, please refer to my [Resume](https://drive.google.com/file/d/1FYOKQ6QruHK5Rv0OO9ZqzMvqRo5EXZap/view?usp=drivesdk)
 
 
 
