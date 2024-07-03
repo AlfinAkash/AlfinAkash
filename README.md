@@ -20,7 +20,7 @@
 
 - 👨‍💻  I have a strong enthusiasm for exploring new technologies and expanding my knowledge in various areas.
 
-- 🔭 I graduated in 2024 with a **B.E. in Computer Science and Engineering from the Government College of Engineering, Tirunelveli. [GCE-Tirunelveli](https://www.gcetly.ac.in/)**
+- 🔭 I graduated in 2024 with a **B.E. in Computer Science and Engineering from [GCE-Tirunelveli](https://www.gcetly.ac.in/)**
 
 - 🌱 I am currently focused on mastering the **MERN stack**.
   
