@@ -27,13 +27,13 @@
  - I’m looking to collaborate on OpenSource Projects
 
 
-- 💡 Contributing to open-source initiatives has always been a key objective of mine.
+- Contributing to open-source initiatives has always been a key objective of mine.
   
 -  My recent [Project](https://alfinakash-project.vercel.app/)
 
-- 📫 You can reach me at **a.alfinakash1@gmail.com**
+- You can reach me at **a.alfinakash1@gmail.com**
   
-- 📄 For more information about my experiences, please refer to my [Resume](https://drive.google.com/file/d/1FYOKQ6QruHK5Rv0OO9ZqzMvqRo5EXZap/view?usp=drivesdk)
+- For more information about my experiences, please refer to my [Resume](https://drive.google.com/file/d/1FYOKQ6QruHK5Rv0OO9ZqzMvqRo5EXZap/view?usp=drivesdk)
 
 
 
