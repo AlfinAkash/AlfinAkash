@@ -36,7 +36,7 @@
 
 - You can reach me at **a.alfinakash1@gmail.com**
   
-- For more information about my experiences, please refer to my [Resume](https://drive.google.com/file/d/1JaEUXiaxfdZa9zk_uL11I0jbcs22hUo_/view?usp=drivesdk)
+- For more information about my experiences, please refer to my [Resume](https://drive.google.com/file/d/1JsD1xawRucLlY6JMk_QK69ETaUkAc5m3/view?usp=drivesdk)
 
  ### Connect with me
 <p align="left">
