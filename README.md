@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Aspiring+Software+Developer+Engineer;Full+Stack+Web+Developer;Software+Engineer;MERN+Stack+Developer;JavaScript+Enthusiast;React+Specialist;Node.js+Developer&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Aspiring+Software+Developer+Engineer;Full+Stack+Web+Developer&center=true&width=500&height=50"></a>
 </p>
 
 
