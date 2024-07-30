@@ -123,9 +123,9 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ![Victor's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AlfinAkash&show_icons=true&theme=tokyonight)     
-<!--
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AlfinAkash&theme=tokyonight)](https://git.io/streak-stats)
--->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfinAkash&theme=tokyonight&hide=html&layout=compact) 
 
 
