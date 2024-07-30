@@ -125,8 +125,8 @@
 ![Victor's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AlfinAkash&show_icons=true&theme=tokyonight)     
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AlfinAkash&theme=tokyonight)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfinAkash&theme=tokyonight&hide=html&layout=compact)
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfinAkash&theme=tokyonight&hide=html&layout=compact) -->
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
