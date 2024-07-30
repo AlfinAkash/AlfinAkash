@@ -118,10 +118,10 @@
 
 
 # Deployment
-
+<!--
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
+-->
 ![Victor's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AlfinAkash&show_icons=true&theme=tokyonight)     
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AlfinAkash&theme=tokyonight)](https://git.io/streak-stats)
