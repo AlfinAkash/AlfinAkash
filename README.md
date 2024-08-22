@@ -64,7 +64,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,html,css,sass,tailwind,bootstrap,js,ts,vite,react,angular,dotnet,nodejs,npm,express,mongodb,MySQL,aws,linux,git,github,gitlab,pycharm,vscode,arduino,vercel,ubuntu,windows" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,html,css,sass,tailwind,bootstrap,js,ts,vite,react,angular,dotnet,nodejs,npm,express,mongodb,mysql,aws,linux,git,github,gitlab,pycharm,vscode,arduino,vercel,ubuntu,windows" />
   </a>
 </p>
 
