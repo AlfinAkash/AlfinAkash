@@ -60,16 +60,11 @@
 
 # Skills
 
-
-
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,html,css,sass,tailwind,bootstrap,js,jquery,ts,vite,react,angular,dotnet,nodejs,npm,express,mongodb,mysql,postman,aws,linux,git,github,gitlab,pycharm,vscode,eclipse,arduino,vercel,ubuntu,windows" />
   </a>
 </p>
-
-
-
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
