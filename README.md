@@ -64,14 +64,14 @@
 ### Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,c#,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,csharp,python" />
   </a>
 </p>
 
 ### Web Development
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,nodejs,expressjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js, typescript,react,nodejs,expressjs" />
   </a>
 </p>
 
