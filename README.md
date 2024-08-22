@@ -64,40 +64,13 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,html,css,sass,tailwind,bootstrap,js,ts,vite,react,angular,dotnet,nodejs,npm,expressmongodb,MySQL,aws,linux,git,github,gitlab,pycharm,vscode,arduino,vercel,ubuntu,windows" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,html,css,sass,tailwind,bootstrap,js,ts,vite,react,angular,dotnet,nodejs,npm,express,mongodb,MySQL,aws,linux,git,github,gitlab,pycharm,vscode,arduino,vercel,ubuntu,windows" />
   </a>
 </p>
 
-<!-------------------------------------------------------------------
-### Web Development
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,angular,nodejs,express" />
-  </a>
-</p>
 
-### Databases
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  </a>
-</p>
 
-### DevOps & Deployment
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,linux" />
-  </a>
-</p>
 
-### Tools/Platforms
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,pycharm,vscode,vercel,ubuntu,windows" />
-  </a>
-</p>
-
--------------------------------------------------------------------->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
