@@ -61,7 +61,7 @@
 # Skills
 
 
-### Programming Languages && Web Development && Databases && DevOps & Deployment && Tools/Platforms
+#### Programming Languages && Web Development && Databases && DevOps & Deployment && Tools/Platforms
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,html,css,sass,tailwind,js,ts,react,nodejs,expressmongodb,MySQL,aws,linux,git,github,gitlab,pycharm,vscode,vercel,ubuntu,windows" />
