@@ -64,7 +64,7 @@
 ### Programming Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,c#,python" />
   </a>
 </p>
 
