@@ -58,7 +58,7 @@
 <!------------------------------------------------------------------------------------Skills--------------------------------------------------------------------------------------------------->
 
 
-# Skills
+# Languages and Tools 
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,python,html,css,sass,tailwind,bootstrap,js,jquery,ts,vite,react,angular,dotnet,nodejs,npm,express,mongodb,mysql,postman,aws,linux,git,github,gitlab,pycharm,vscode,eclipse,arduino,vercel,ubuntu,windows&perline=10" />
