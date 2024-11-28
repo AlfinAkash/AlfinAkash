@@ -39,7 +39,7 @@
 
 - You can reach me at **a.alfinakash1@gmail.com**
   
-- For more information about my experiences, please refer to my [Resume](https://drive.google.com/file/d/1L4m0J3TdMENDKAuZo2SJiwBkiVKD22uS/view?usp=drivesdk)
+- For more information about my experiences, please refer to my [Portfolio](https://alfinakash.vercel.app/)
 
  ### Connect with me
 <p align="left">
