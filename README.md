@@ -35,9 +35,6 @@
 
 - Contributing to open-source initiatives has always been a key objective of mine.
   
--  My recent [Project](https://alfinakash-project.vercel.app/)
-
-- You can reach me at **a.alfinakash1@gmail.com**
   
 - For more information about my experiences, please refer to my [Portfolio](https://alfinakash.vercel.app/)
 
