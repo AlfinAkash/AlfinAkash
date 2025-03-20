@@ -18,25 +18,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlfinAkash&label=Profile%20views&color=0e75b6&style=flat" alt="AlfinAkash" /> </p>
 
-
-
-
-
--  I am a highly passionate full-stack developer, always eager to learn new skills and generate innovative ideas.
-
--  I have a strong enthusiasm for exploring new technologies and expanding my knowledge in various areas.
-
 - I graduated in 2024 with a **B.E. in Computer Science and Engineering from [GCE-Tirunelveli](https://www.gcetly.ac.in/)**
-
-- I am currently focused on mastering the **MERN stack**.
-  
- - I’m looking to collaborate on OpenSource Projects
-
-
-- Contributing to open-source initiatives has always been a key objective of mine.
-  
-  
-- For more information about my experiences, please refer to my [Portfolio](https://alfinakash.vercel.app/)
+- I have a strong enthusiasm for exploring new technologies and expanding my knowledge in various areas.
+- I’m looking to collaborate on OpenSource Projects
 
  ### Connect with me
 <p align="left">
