@@ -15,9 +15,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlfinAkash&label=Profile%20views&color=0e75b6&style=flat" alt="AlfinAkash" /> </p>
 
-- I graduated in 2024 with a **B.E. in Computer Science and Engineering from [GCE-Tirunelveli](https://www.gcetly.ac.in/)**
 - I have a strong enthusiasm for exploring new technologies and expanding my knowledge in various areas.
-- I’m looking to collaborate on open-source-projects.
+- I’m looking to collaborate on open-source projects.
 
  ### Connect with me
 <p align="left">
