@@ -91,6 +91,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfinAkash&theme=tokyonight&hide=html&layout=compact) 
 
+![GitHub Streak](https://github-readme-streak-stats-phi-silk.vercel.app/?user=AlfinAkash&theme=tokyonight)
+
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
