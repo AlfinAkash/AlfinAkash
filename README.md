@@ -1,9 +1,6 @@
 <!------------------------------------------------------------------------------------Introduction--------------------------------------------------------------------------------------------------->
 
 
-
-
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash A</h1>
 
 
@@ -13,7 +10,7 @@
 
 
 
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="center" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AlfinAkash&label=Profile%20views&color=0e75b6&style=flat" alt="AlfinAkash" /> </p>
