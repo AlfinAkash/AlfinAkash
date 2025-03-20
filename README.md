@@ -3,11 +3,9 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash A</h1>
 
-
 <p align="center">
 <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Java+Developer;MERN+Stack+Developer;Data+Analyst&center=true&width=500&height=50"></a>
 </p>
-
 
 <!------------------- <p align="center">
 <img align="center" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
@@ -27,7 +25,6 @@
 <a href="https://youtube.com/@alfinakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="AlfinAkash" height="20" width="30" /></a>
 </p>
 <br>
-
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -54,9 +51,7 @@
     <img src="https://leetcard.jacoblin.cool/AlfinAkash?theme=dark&font=Goldman&ext=activityy"></img>
 <a>
 
-
-
-
+ 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <!------------------------------------------------------------------------------------ Deployment and Stats--------------------------------------------------------------------------------------------------->
