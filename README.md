@@ -26,7 +26,7 @@
       <br>Yeah, I know that we can do <em>amazing things</em> together,
       <br>So let's connect @ <a href="https://linkedin.com/in/AlfinAkash">LinkedIn</a><br>
       <br><img src="https://github.com/" width="300px" align="center">
-    <br><br> <a href="https://alfinakash.vercel.app">alfinakash.vercel.app</a>
+    <br><br>
   </samp>
 </p>
 
