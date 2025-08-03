@@ -39,7 +39,7 @@
 - I have a strong enthusiasm for exploring new technologies and expanding my knowledge in various areas.
 - I’m looking to collaborate on open-source projects.
 ----->
-
+<!-----------
 
  #### Connect with me
 <p align="left">
@@ -53,7 +53,7 @@
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
+------------------>
 <!------------------------------------------------------------------------------------Skills--------------------------------------------------------------------------------------------------->
 
 <!------
@@ -110,7 +110,6 @@
 --------------->
 
 
---------------------------->
 
 
 
