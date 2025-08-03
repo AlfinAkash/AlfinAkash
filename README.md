@@ -18,7 +18,7 @@
  <p align="center">
   <br><br>
   <samp>
-    :wave: Hi! I am AlfinAkash A
+    :wave: Hi! I am Akash A
     <br>Backend & Cloud Developer
       <br>Yeah, I know that we can do <em>amazing things</em> together,
       <br>So let's connect @ <a href="https://linkedin.com/in/AlfinAkash">LinkedIn</a><br>
