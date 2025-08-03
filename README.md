@@ -16,6 +16,19 @@
 - I have a strong enthusiasm for exploring new technologies and expanding my knowledge in various areas.
 - I’m looking to collaborate on open-source projects.
 
+
+  <p align="center">
+  <br><br>
+  <samp>
+    :wave: Hi! I am AlfinAkash A
+    <br>Programmer and a Web Developer 
+      <br>Yeah, I know that we can do <em>amazing things</em> together,
+      <br>So let's connect @ <a href="https://linkedin.com/in/AlfinAkash">LinkedIn</a><br>
+      <br><img src="https://github.com/" width="300px" align="center">
+    <br><br> <a href="https://alfinakash.vercel.app">alfinakash.vercel.app</a>
+  </samp>
+</p>
+
  #### Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/AlfinAkash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AlfinAkash" height="20" width="30" /></a>
@@ -31,7 +44,7 @@
 
 <!------------------------------------------------------------------------------------Skills--------------------------------------------------------------------------------------------------->
 
-
+<!------
 # Languages and Tools 
 
 <p align="left">
@@ -41,6 +54,8 @@
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+------>
 
 <!------------------------------------------------------------------------------------LeetCode--------------------------------------------------------------------------------------------------->
 
