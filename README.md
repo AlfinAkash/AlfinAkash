@@ -14,6 +14,9 @@
 <!------------------- <p align="center">
 <img align="center" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 </p>------------------>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlfinAkash&label=Profile%20views&color=0e75b6&style=flat" alt="AlfinAkash" /> </p>
+
+
 
  <p align="center">
   <br><br>
@@ -28,7 +31,7 @@
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlfinAkash&label=Profile%20views&color=0e75b6&style=flat" alt="AlfinAkash" /> </p>
+
 <!----
 - I have a strong enthusiasm for exploring new technologies and expanding my knowledge in various areas.
 - I’m looking to collaborate on open-source projects.
