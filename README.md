@@ -1,33 +1,40 @@
 <!------------------------------------------------------------------------------------Introduction--------------------------------------------------------------------------------------------------->
 
 
+<!----
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Akash A</h1>
 
+--->
+<!---
 <p align="center">
 <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Java+Developer;MERN+Stack+Developer;Data+Analyst&center=true&width=500&height=50"></a>
 </p>
-
+----->
 <!------------------- <p align="center">
 <img align="center" alt="Coding" width="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 </p>------------------>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlfinAkash&label=Profile%20views&color=0e75b6&style=flat" alt="AlfinAkash" /> </p>
-
-- I have a strong enthusiasm for exploring new technologies and expanding my knowledge in various areas.
-- I’m looking to collaborate on open-source projects.
-
-
-  <p align="center">
+ <p align="center">
   <br><br>
   <samp>
     :wave: Hi! I am AlfinAkash A
-    <br>Programmer and a Web Developer 
+    <br>Backend & Cloud Developer
       <br>Yeah, I know that we can do <em>amazing things</em> together,
       <br>So let's connect @ <a href="https://linkedin.com/in/AlfinAkash">LinkedIn</a><br>
       <br><img src="https://github.com/" width="300px" align="center">
     <br><br> <a href="https://alfinakash.vercel.app">alfinakash.vercel.app</a>
   </samp>
 </p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlfinAkash&label=Profile%20views&color=0e75b6&style=flat" alt="AlfinAkash" /> </p>
+<!----
+- I have a strong enthusiasm for exploring new technologies and expanding my knowledge in various areas.
+- I’m looking to collaborate on open-source projects.
+----->
+
+
 
  #### Connect with me
 <p align="left">
